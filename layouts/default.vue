@@ -41,7 +41,6 @@
     </v-toolbar>
     <main>
       <v-container fluid>
-        <div class="title">Click on sidebar to re-open.</div>
         <nuxt/>
       </v-container>
     </main>
